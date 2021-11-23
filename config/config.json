@@ -1,0 +1,23 @@
+{
+  "development": {
+    "username": "moehzi",
+    "password": "mantap098",
+    "database": "FSW2108KM0006_development",
+    "host": "127.0.0.1",
+    "dialect": "postgres"
+  },
+  "test": {
+    "username": "moehzi",
+    "password": "mantap098",
+    "database": "FSW2108KM0006_test",
+    "host": "127.0.0.1",
+    "dialect": "postgres"
+  },
+  "production": {
+    "username": "moehzi",
+    "password": "mantap098",
+    "database": "FSW2108KM0006_production",
+    "host": "127.0.0.1",
+    "dialect": "postgres"
+  }
+}
